@@ -2,6 +2,7 @@
 개발을 통해 더 나은 세상을 만들고 싶습니다. 
 - Resume: https://teal-poultry-405.notion.site/29c22927a62f4fffb023d2451da8ede5
 - Email : gomster96@gmail.com
+
 ###⛏️ Skills
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
