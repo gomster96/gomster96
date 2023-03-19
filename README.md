@@ -2,6 +2,25 @@
 개발을 통해 더 나은 세상을 만들고 싶습니다. 
 - Resume: https://teal-poultry-405.notion.site/29c22927a62f4fffb023d2451da8ede5
 - Email : gomster96@gmail.com
+###⛏️ Skills
+<div>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+  
+
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jpa-6DB33F?style=for-the-badge&logo=springboot&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+
+</div>
+
 ### 💻 Project
 - 2022.09.15 ~ 2022.12.01 **HisPath** (교육역량 평가 및 마일스톤 서비스), [바로가기](https://github.com/HisPath/HisPath-Server)
 - 2022.07.04 ~ 2022.08.28 **I-Taxi** (택시 같이 타기 서비스), [바로가기](https://github.com/I-Taxi/server)
