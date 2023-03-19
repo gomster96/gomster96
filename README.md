@@ -2,7 +2,8 @@
 개발을 통해 더 나은 세상을 만들고 싶습니다. 
 
 **#듬직한 소나무 #Early Adopter** **#Coding & Sharing are Fun #Team Player** **# 집중하는 개발자 #객체지향 #확장성 #Clean Code**
-- Email : gomster96@gmail.com
+
+Email : gomster96@gmail.com
 
 
 
