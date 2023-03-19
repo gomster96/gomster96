@@ -19,13 +19,13 @@
 </div>
 
 ### 💻 Project
-- **HisPath** (교육역량 평가 및 마일스톤 서비스), [바로가기](https://github.com/HisPath/HisPath-Server) (2022.09.15 ~ 2022.12.01)
-- **I-Taxi** (택시 같이 타기 서비스), [바로가기](https://github.com/I-Taxi/server) (2022.07.04 ~ 2022.08.28)
-- **CAMIN** (여러 조건으로 최적의 카페를 찾아주는 서비스), [바로가기](https://github.com/SW-HACKATHON-CAMIN/camin-server) (2022.06.22 ~ 2022.06.24)
-- **LearnTube** (YouTube 기반의 학습지원 서비스), [바로가기](https://github.com/gomster96/LearnTube) (2022.04.18 ~ 2022.06.02)
-- **CSEE-SelfChecker** (수업 수강 확인 및 관리 보조 서비스), [바로가기](https://github.com/gomster96/CSEE-SelfCheck) (2022.03.21 ~ 2022.04.21)
-- **ReBoN** (위치기반 식당, 카페, 숙소 조회 서비스), [바로가기](https://github.com/RE-BON/ReBoN) (2022.03.09 ~ 2022.09.15)
-- **사자같이** (온라인 공동구매 플랫폼), [바로가기](https://github.com/gomster96/WEB19-sajagachi) (2021.10.25 ~ 2021.12.02)
+- **HisPath** [(교육역량 평가 및 마일스톤 서비스)](https://github.com/HisPath/HisPath-Server) (2022.09.15 ~ 2022.12.01)
+- **I-Taxi** [(택시 같이 타기 서비스)](https://github.com/I-Taxi/server) (2022.07.04 ~ 2022.08.28)
+- **CAMIN** [(여러 조건으로 최적의 카페를 찾아주는 서비스)](https://github.com/SW-HACKATHON-CAMIN/camin-server) (2022.06.22 ~ 2022.06.24)
+- **LearnTube** [(YouTube 기반의 학습지원 서비스)](https://github.com/gomster96/LearnTube) (2022.04.18 ~ 2022.06.02)
+- **CSEE-SelfChecker** [(수업 수강 확인 및 관리 보조 서비스](https://github.com/gomster96/CSEE-SelfCheck) (2022.03.21 ~ 2022.04.21)
+- **ReBoN** [(위치기반 식당, 카페, 숙소 조회 서비스](https://github.com/RE-BON/ReBoN) (2022.03.09 ~ 2022.09.15)
+- **사자같이** [(온라인 공동구매 플랫폼](https://github.com/gomster96/WEB19-sajagachi) (2021.10.25 ~ 2021.12.02)
 
 ### 🏆Achievement
 - 2023.02. 삼성전자 SW 역량테스트 B형(pro) 취득
