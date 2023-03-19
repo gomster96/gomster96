@@ -3,7 +3,7 @@
 - Resume: https://teal-poultry-405.notion.site/29c22927a62f4fffb023d2451da8ede5
 - Email : gomster96@gmail.com
 
-###⛏️ Skills
+### ⛏️ Skills
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
