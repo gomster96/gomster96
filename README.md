@@ -25,7 +25,7 @@
 - **LearnTube** [(YouTube 기반의 학습지원 서비스)](https://github.com/gomster96/LearnTube) (2022.04.18 ~ 2022.06.02)
 - **CSEE-SelfChecker** [(수업 수강 확인 및 관리 보조 서비스](https://github.com/gomster96/CSEE-SelfCheck) (2022.03.21 ~ 2022.04.21)
 - **ReBoN** [(위치기반 식당, 카페, 숙소 조회 서비스](https://github.com/RE-BON/ReBoN) (2022.03.09 ~ 2022.09.15)
-- **사자같이** [(온라인 공동구매 플랫폼](https://github.com/gomster96/WEB19-sajagachi) (2021.10.25 ~ 2021.12.02)
+- **사자같이** [(온라인 공동구매 플랫폼)](https://github.com/gomster96/WEB19-sajagachi) (2021.10.25 ~ 2021.12.02)
 
 ### 🏆Achievement
 - 2023.02. 삼성전자 SW 역량테스트 B형(pro) 취득
