@@ -51,8 +51,8 @@ Email : gomster96@gmail.com
 - 2022.05. 대경권 프로그래밍 경진대회 우수상
 
 ### 📄 Education & Experience
-- 2023.01.16 ~ 2023.02.24 삼성전자 DX부문 동계 대학생 S/W 알고리즘 역량 강화 특강
-- 2022.01.20 ~ 2022.12.31 WALAB 연구실 활동
-- 2022.01.17 ~ 2022.01.18 삼성SDS 2022 동계 알고리즘 특강
-- 2021.08.23 ~ 2021.12.03 NAVER boostcamp 6th Membership - Web Fullstack Course
-- 2021.07.19 ~ 2021.08.13 NAVER boostcamp 6th Challenge - Web Fullstack Course
+- 2023.01.16 ~ 2023.02.24 : 삼성전자 DX부문 동계 대학생 S/W 알고리즘 역량 강화 특강
+- 2022.01.20 ~ 2022.12.31 : WALAB 연구실 활동
+- 2022.01.17 ~ 2022.01.18 : 삼성SDS 2022 동계 알고리즘 특강
+- 2021.08.23 ~ 2021.12.03 : NAVER boostcamp 6th Membership - Web Fullstack Course
+- 2021.07.19 ~ 2021.08.13 : NAVER boostcamp 6th Challenge - Web Fullstack Course
