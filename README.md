@@ -1,7 +1,7 @@
 ## 시작과 끝에 함께하는 개발자 안병웅 입니다.
 개발을 통해 **더 나은 세상**을 만들고 싶습니다. 
 
-**#듬직한 소나무 #Early Adopter** **#Coding & Sharing are Fun #Team Player** **# 집중하는 개발자 #객체지향 #확장성 #Clean Code**
+**#듬직한 소나무** **#Coding & Sharing are Fun #Team Player** **# 집중하는 개발자 #객체지향 #확장성 #Clean Code**
 
 Email : gomster96@gmail.com
 
@@ -44,7 +44,6 @@ Email : gomster96@gmail.com
 - 2022.10. 교내 SW 페스티벌 스마트 애플리케이션 공모전 최우수상 (I-Taxi)
 - 2022.10. 교내 SW 페스티벌 스마트 애플리케이션 공모전 우수상 (LearnTube)
 - 2022.10. 교내 SW 페스티벌 스마트 애플리케이션 공모전 우수상 (CSEE-Selfchecker)
-- 2022.07. Bizflow M pre-Contest 장려상
 - 2022.06. SW중심대학 공동 해커톤 소프트웨어 중심대학 협의회장상 (CAMIN)
 - 2022.05. 대경권 프로그래밍 경진대회 우수상
 
