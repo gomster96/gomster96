@@ -33,8 +33,6 @@ Email : gomster96@gmail.com
 
 2022.03.21 ~ 2022.04.21 [**CSEE-SelfChecker**](https://github.com/gomster96/CSEE-SelfCheck) - 수업 수강 확인 및 관리 보조 서비스
 
-2022.03.09 ~ 2022.09.15 [**ReBoN**](https://github.com/RE-BON/ReBoN) - 위치기반 식당, 카페, 숙소 조회 서비스
-
 2021.10.25 ~ 2021.12.02 [**사자같이**](https://github.com/gomster96/WEB19-sajagachi) - 온라인 공동구매 플랫폼
 
 ### 🏆Achievement
