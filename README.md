@@ -1,7 +1,3 @@
-## 시작과 끝에 함께하는 개발자 안병웅 입니다.
-개발을 통해 **더 나은 세상**을 만들고 싶습니다. 
-
-**#듬직한 소나무** **#Coding & Sharing are Fun #Team Player** **# 집중하는 개발자 #객체지향 #확장성 #Clean Code**
 
 Email : gomster96@gmail.com
 
