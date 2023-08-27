@@ -1,6 +1,4 @@
 
-Email : gomster96@gmail.com
-
 
 
 ### ⛏️ Skills
